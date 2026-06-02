@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Gallery
 
 {% for page in site.pages %}
