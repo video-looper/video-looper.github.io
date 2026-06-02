@@ -3,7 +3,7 @@ layout: default
 title: video 3
 ---
 
-# video 1
+# video 3
 
 visual work for artist name
 
