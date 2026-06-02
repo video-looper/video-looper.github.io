@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # dotdotw
 
 imagination lab / gallery
