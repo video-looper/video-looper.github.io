@@ -1,8 +1,12 @@
 # dotdotw
 
-## Echoes
-- [First Echo](/2026/06/02/first-echo.html)
+imagination lab / gallery
 
-## Explore
-- [Lab](/lab/)
-- [Gallery](/gallery/)
+---
+
+## links
+
+- [lab](/lab/)
+- [gallery](/gallery/)
+- contact: your@email.com
+- socials: (add later)
