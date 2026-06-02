@@ -1,9 +1,7 @@
 # Gallery
 
-Latest work:
-
-<ul>
-  <li><a href="/gallery/video-1">video 1</a></li>
-  <li><a href="/gallery/video-2">video 2</a></li>
-   <li><a href="/gallery/video-3">video 3</a></li>
-</ul>
+{% for page in site.pages %}
+  {% if page.path contains "gallery/" and page.name != "index.md" %}
+- [{{ page.title }}]({{ page.url | relative_url }})
+  {% endif %}
+{% endfor %}
