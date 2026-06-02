@@ -12,5 +12,3 @@ imagination lab / gallery
 
 - [lab](/lab/)
 - [gallery](/gallery/)
-- contact: your@email.com
-- socials: (add later)
